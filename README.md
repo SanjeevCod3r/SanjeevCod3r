@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android & Web Development**
 
-- 📫 How to reach me **sanjeev1822.be21@gmail.com**
+- 📫 How to reach me **sanjeevjaiswal2403@gmail.com**
 
 - ⚡ Fun fact **Enjoy Caffeine while Coding.**
 

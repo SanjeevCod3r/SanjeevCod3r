@@ -29,6 +29,12 @@
   <a href="https://linkedin.com/in/sanjeev-jaiswal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/Sanjeev1878" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sanjeev_24/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://SanjeevCod3r.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
@@ -46,11 +52,18 @@
 <br/>
 <hr/>
 
+<h2 align="center">📈 GitHub Activity 📈</h2>
+<br/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SanjeevCod3r/SanjeevCod3r/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjeevCod3r&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjeevCod3r&theme=onedark&no-frame=true&row=1&column=6" />
 </div>
 
 <hr/>
@@ -64,11 +77,10 @@
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjeevCod3r&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
-<br/>
 <hr/>
 
+<h2 align="center">💻 LeetCode Stats 💻</h2>
+<br/>
 <div align="center">
-<a href='https://ko-fi.com/YOUR-KO-FI-LINK' target='_blank'>
-  <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+  <img src="https://leetcard.jacoblin.cool/Sanjeev_24?theme=dark" width="100%" />
 </div>
